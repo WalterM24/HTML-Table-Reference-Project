@@ -1,0 +1,41 @@
+body{
+    font-family: monospace;
+    text-align:center;
+    background-color: rgb(253, 220, 253);
+  }
+  header{
+    color: black;
+background-color: rgb(240, 182, 240);
+padding: .05px;
+margin: -10px;
+  }
+   table, th, tr, td{
+     border: 1px solid black;
+     border: ridge 5px rgba(198, 152, 216, 0.356);
+  
+   }
+   tr :hover{
+      background-color: rgb(228, 198, 228);
+  }
+  
+  table{
+     margin-left: auto;
+    margin-right: auto;
+  }
+
+  th{
+    background-color: rgb(240, 182, 240);
+  }
+
+  .code{
+    background-color: rgb(236, 192, 236);
+  }
+
+  .tt{
+    margin-top: 50px;
+    
+  }
+
+  .ta{
+    margin-top: 50px;
+  }
